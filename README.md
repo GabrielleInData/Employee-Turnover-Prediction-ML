@@ -17,3 +17,14 @@ Machine learning project focused on predicting employee turnover and identifying
 - Seaborn
 - Scikit-learn
 - Imbalanced-learn
+
+  **Machine Learning**
+
+- Logistic Regression
+- Random Forest
+- Gradient Boosting
+- K-Means Clustering
+- SMOTE
+- 5-Fold Cross-Validation
+- ROC-AUC Analysis
+- Confusion Matrix
