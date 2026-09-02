@@ -7,3 +7,13 @@ Machine learning project focused on predicting employee turnover and identifying
 - Addressed class imbalance with SMOTE.
 - Compared Logistic Regression, Random Forest, and Gradient Boosting using 5-fold cross-validation.
 - Developed employee risk categories to support targeted retention strategies.
+
+**Languages & Libraries**
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Imbalanced-learn
