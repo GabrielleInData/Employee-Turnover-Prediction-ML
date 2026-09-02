@@ -2,29 +2,23 @@
 Machine learning project focused on predicting employee turnover and identifying high-risk employee segments. Applied EDA, K-Means clustering, SMOTE, and 5-fold cross-validation across Logistic Regression, Random Forest, and Gradient Boosting models to evaluate turnover risk and develop targeted employee retention strategies.
 
 ## Key Highlights
-- Analyzed factors associated with employee turnover.
-- Segmented employees using K-Means clustering based on satisfaction and evaluation.
-- Addressed class imbalance with SMOTE.
-- Compared Logistic Regression, Random Forest, and Gradient Boosting using 5-fold cross-validation.
-- Developed employee risk categories to support targeted retention strategies.
+The organization should focus on improving satisfaction among lower-scoring employees to reduce turnover.
 
-**Languages & Libraries**
+### Employee Risk Segmentation
+K-Means clustering identified distinct groups of employees who left based on satisfaction and evaluation, providing a framework for understanding different turnover profiles.
+### Model Performance
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Imbalanced-learn
+The three classification models were compared using cross-validation and classification metrics.
 
-  **Machine Learning**
+**Best-performing model:** `[Gradient Model]`
 
-- Logistic Regression
-- Random Forest
-- Gradient Boosting
-- K-Means Clustering
-- SMOTE
-- 5-Fold Cross-Validation
-- ROC-AUC Analysis
-- Confusion Matrix
+**ROC-AUC:** `[Score]`
+
+**Recall:** `[Score]`
+
+**F1-Score:** `[Score]`
+
+The selected model was used to estimate employee turnover probability and categorize employees into risk zones.
+
+
+
