@@ -12,11 +12,11 @@ The three classification models were compared using cross-validation and classif
 
 **Best-performing model:** `[Gradient Model]`
 
-**ROC-AUC:** `[Score]`
+**ROC-AUC:** `[0.99]`
 
-**Recall:** `[Score]`
+**Recall:** `[0.99]`
 
-**F1-Score:** `[Score]`
+**F1-Score:** `[0.95]`
 
 The selected model was used to estimate employee turnover probability and categorize employees into risk zones.
 
